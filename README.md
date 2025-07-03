@@ -1,7 +1,7 @@
 # sample-devops-project
 ✅ Project Overview
 
-Project Name: Simple E-commerce App CI/CD Pipeline
+Project Name: Simple E-commerce App CI/CD Pipeline Demo
 
 Goal:
 
