@@ -3,7 +3,7 @@
 
 Project Name: Simple E-commerce App CI/CD Pipeline Demo
 
-Goal:
+Goals:
 
     Build a simple React frontend + Node.js backend + MongoDB database.
 
